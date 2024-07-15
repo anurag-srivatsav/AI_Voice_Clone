@@ -105,7 +105,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [your.email@example.com](anuragsrivatsav4@gmail.com)
-- **GitHub**: [yourusername](https://github.com/anurag-srivatsav)
+- **Email**: [Anurag Srivastav](anuragsrivatsav4@gmail.com)
+- **GitHub**: [Anurag Srivastav](https://github.com/anurag-srivatsav)
 
 ---
